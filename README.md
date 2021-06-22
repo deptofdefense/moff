@@ -1,4 +1,4 @@
 # moff
 Test data
 http://username:password@example.com/
-http://username1:password@example.com/
+http://test:example@example.com/
